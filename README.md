@@ -4,7 +4,7 @@ description: Making LEDs Blink in New and Creative Ways
 
 # Network Design & Implementation
 
-In recent years, the author has perceived some disconnect between different elements of networking: a computer scientist might have a fundamentally different view of what a network is than an electrical engineer, for instance.  
+In recent years, the study of networking has started to fragment somewhat: a disconnect has formed between different elements and approaches: a computer scientist might have a fundamentally different view of what a network is than an electrical engineer, for instance.
 
 As such, this \(open-source\) document tries to fuse these world views by adopting a largely project-driven approach to the subject: it teaches networking concepts from the ground up, with the first experiment involving two Arduino-compatible microcontrollers and a paper clip.  Relevant concepts are progressively introduced as they become necessary to take the project \(and thus the subject\) further.
 
