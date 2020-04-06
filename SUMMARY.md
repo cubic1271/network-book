@@ -174,7 +174,7 @@
 * [Intrusion](security/intrusion/README.md)
   * [Detection](security/intrusion/detection.md)
   * [Response](security/intrusion/response.md)
-  * [Location](security/intrusion/location.md)
+  * [Architecture](security/intrusion/location.md)
 * [Additional Reading](security/additional-reading.md)
 
 ## Internet & Scale <a id="internet-legacy"></a>
@@ -184,8 +184,7 @@
   * [Flow Processing](internet-legacy/extreme-scale/flow-processing.md)
   * [The Uncertainty Principle](internet-legacy/extreme-scale/the-uncertainty-principle.md)
   * [Layers 8 & 9](internet-legacy/extreme-scale/layers-8-and-9.md)
-  * [Inconsistent Policy](internet-legacy/extreme-scale/inconsistent-policy.md)
-  * [Inconsistent Culture](internet-legacy/extreme-scale/inconsistent-culture.md)
+  * [Monopolies and Standards](internet-legacy/extreme-scale/monopolies-and-standards.md)
 * [Internet Data Flow](internet-legacy/internet-routing/README.md)
   * [Buffers, Latency & Loss](internet-legacy/internet-routing/buffers-latency-and-loss.md)
   * [Peering](internet-legacy/internet-routing/peering.md)

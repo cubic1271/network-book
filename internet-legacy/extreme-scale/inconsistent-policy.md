@@ -1,2 +1,0 @@
-# Inconsistent Policy
-
