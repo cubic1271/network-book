@@ -20,6 +20,7 @@
   * [Broadcast](networking-101/addressing/broadcast.md)
 * [The Broadcast Blink](networking-101/the-broadcast-blink.md)
 * [Beyond the Blink](networking-101/more-than-blink.md)
+* [Additional Reading](networking-101/additional-reading.md)
 
 ## Wireless
 
@@ -37,6 +38,7 @@
 * [Medium Arbitration](wireless/medium-arbitration.md)
 * [900 MHz Radio](wireless/meet-bluetooth.md)
 * [The Wireless Blink](wireless/the-wireless-blink.md)
+* [Additional Reading](wireless/additional-reading.md)
 
 ## Applied Ethernet
 
@@ -60,6 +62,7 @@
   * [Example: NUCLEO-F746ZG](applied-ethernet/separation-of-concerns/example-nucleo-f746zg.md)
 * [An Easier Way](applied-ethernet/an-easier-way.md)
 * [The Ethernet Blink](applied-ethernet/the-ethernet-blink.md)
+* [Additional Reading](applied-ethernet/additional-reading.md)
 
 ## Hierarchy & Engineering <a id="hierarchy"></a>
 
@@ -74,12 +77,6 @@
   * [Common Standards Bodies](hierarchy/network-protocols/common-standards-bodies.md)
   * [Good vs. Bad Standards](hierarchy/network-protocols/good-vs.-bad-standards.md)
 * [The Standardized Blink](hierarchy/the-standardized-blink.md)
-* [Traffic Engineering](hierarchy/traffic-engineering/README.md)
-  * [Engineers as Plumbers](hierarchy/traffic-engineering/engineers-as-plumbers.md)
-  * [Peering](hierarchy/traffic-engineering/peering.md)
-  * [Shaping](hierarchy/traffic-engineering/shaping.md)
-  * [Tunneling](hierarchy/traffic-engineering/tunneling.md)
-  * [Overlays](hierarchy/traffic-engineering/overlays.md)
 * [The Engineered Blink](hierarchy/the-engineered-blink.md)
 * [Encapsulation](hierarchy/encapsulation.md)
 * [The OSI Model](hierarchy/the-osi-model/README.md)
@@ -90,12 +87,15 @@
 * [The Internet Protocols](hierarchy/the-internet-protocols/README.md)
   * [IPv6](hierarchy/the-internet-protocols/ipv6.md)
   * [IPv4](hierarchy/the-internet-protocols/ipv4.md)
+* [Additional Reading](hierarchy/additional-reading.md)
 
 ## Routing Data \(Network\)
 
 * [Module Overview](routing-data-network/module-overview.md)
 * [Switching & Routing](routing-data-network/switching-and-routing/README.md)
   * [Label Switching](routing-data-network/switching-and-routing/label-switching.md)
+  * [Overlays](routing-data-network/switching-and-routing/overlays.md)
+  * [Tunnels](routing-data-network/switching-and-routing/tunnels.md)
 * [The Switched Blink](routing-data-network/the-switched-blink.md)
 * [Packets](routing-data-network/packets/README.md)
   * [Capture / Analysis](routing-data-network/packets/capture-analysis.md)
@@ -118,11 +118,11 @@
   * [Software-Defined Networking](routing-data-network/approach-implementation/software-defined-networking.md)
   * [OpenFlow](routing-data-network/approach-implementation/openflow.md)
 * [Approach: Monitoring](routing-data-network/approach-monitoring.md)
+* [Additional Reading](routing-data-network/additional-reading.md)
 
 ## Moving Data \(Transport\) <a id="data-transport"></a>
 
 * [Module Overview](data-transport/module-overview.md)
-* [Common Transports](data-transport/common-transports.md)
 * [Theory of Transport](data-transport/theory-of-transport/README.md)
   * [Applications](data-transport/theory-of-transport/applications.md)
   * [Ports](data-transport/theory-of-transport/ports.md)
@@ -131,8 +131,13 @@
   * [Connections](data-transport/reliable-transport-design/connections.md)
   * [Retransmission](data-transport/reliable-transport-design/retransmission.md)
   * [Head-of-Line Blocking](data-transport/reliable-transport-design/head-of-line-blocking.md)
+* [Common Transports](data-transport/common-transports/README.md)
+  * [TCP](data-transport/common-transports/tcp.md)
+  * [UDP](data-transport/common-transports/udp.md)
+  * [SCTP](data-transport/common-transports/sctp.md)
+  * [QUIC](data-transport/common-transports/quic.md)
 * [Deep Dive: TCP](data-transport/deep-dive-tcp/README.md)
-  * [Concepts](data-transport/deep-dive-tcp/concepts.md)
+  * [Overview](data-transport/deep-dive-tcp/concepts.md)
   * [Handshake](data-transport/deep-dive-tcp/handshake.md)
   * [Selective Acknowledgment](data-transport/deep-dive-tcp/selective-acknowledgment.md)
   * [Nagle's Algorithm](data-transport/deep-dive-tcp/nagles-algorithm.md)
@@ -149,17 +154,38 @@
   * [Transport Security](security/security-in-layers/transport-security.md)
   * [Network Security](security/security-in-layers/network-security.md)
   * [Link Security](security/security-in-layers/link-security.md)
+* [Network Security](security/network-security/README.md)
+  * [Amplification](security/network-security/amplification.md)
+* [Protocol Security](security/protocol-security/README.md)
+  * [Case Study: WEP](security/protocol-security/case-study-wep.md)
+  * [Case Study: SYN / ACK](security/protocol-security/case-study-syn-ack.md)
+* [Network Stack Security](security/network-stack-security/README.md)
+  * [Denial of Service](security/network-stack-security/denial-of-service.md)
+  * [Fragmentation](security/network-stack-security/fragmentation.md)
+  * [Buffer Overflow](security/network-stack-security/buffer-overflow.md)
+* [Application Security](security/application-security/README.md)
+  * [Denial of Service](security/application-security/denial-of-service.md)
+  * [Buffer Overflow](security/application-security/buffer-overflow.md)
+  * [OWASP](security/application-security/owasp.md)
+* [Intrusion](security/intrusion/README.md)
+  * [Detection](security/intrusion/detection.md)
+  * [Response](security/intrusion/response.md)
+  * [Location](security/intrusion/location.md)
 * [The Secure Blink](security/the-secure-blink.md)
 
 ## Internet & Scale <a id="internet-legacy"></a>
 
 * [Module Overview](internet-legacy/module-overview.md)
 * [Extreme Scale](internet-legacy/extreme-scale.md)
+* [Internet Routing](internet-legacy/internet-routing/README.md)
+  * [BGP](internet-legacy/internet-routing/bgp.md)
 * [Congestion](internet-legacy/congestion/README.md)
   * [Collapse](internet-legacy/congestion/collapse.md)
   * [Control](internet-legacy/congestion/control.md)
 * [Measurement](internet-legacy/measurement.md)
+* [Hardware & Software](internet-legacy/hardware-and-software.md)
 * [Ethical Considerations](internet-legacy/ethical-considerations.md)
+* [The HTTP Blink](internet-legacy/the-http-blink.md)
 
 ## Networked Applications
 
@@ -171,6 +197,9 @@
   * [Explicit Approach](networked-applications/sharing-state/explicit-approach.md)
   * [Replication Approach](networked-applications/sharing-state/replication-approach.md)
 * [BSD Sockets](networked-applications/bsd-sockets.md)
+* [Design Patterns](networked-applications/design-patterns/README.md)
+  * [Server / Client](networked-applications/design-patterns/server-client.md)
+  * [Publish / Subscribe](networked-applications/design-patterns/publish-subscribe.md)
 * [Bottlenecks](networked-applications/bottlenecks/README.md)
   * [Packet Rate vs. Throughput](networked-applications/bottlenecks/packet-rate-vs.-throughput.md)
 * [Going Faster](networked-applications/going-faster/README.md)
@@ -179,16 +208,19 @@
   * [Interrupts vs. Polling](networked-applications/going-faster/interrupts-vs.-polling.md)
   * [Hardware Acceleration](networked-applications/going-faster/hardware-acceleration.md)
   * [User-space Networking](networked-applications/going-faster/user-space-networking.md)
+* [The Sockets Blink](networked-applications/the-sockets-blink.md)
 
 ## Internet of Things
 
 * [Module Overview](internet-of-things/module-overview.md)
 * [Proxies](internet-of-things/proxies.md)
 * [Performance Metrics](internet-of-things/performance-metrics.md)
+* [Routing](internet-of-things/routing.md)
 * [Common Protocols](internet-of-things/common-protocols/README.md)
   * [MQTT](internet-of-things/common-protocols/mqtt.md)
   * [AMQP](internet-of-things/common-protocols/amqp.md)
   * [CoAP](internet-of-things/common-protocols/coap.md)
+* [The CoAP Blink](internet-of-things/the-coap-blink.md)
 
 ## Space Networks <a id="space"></a>
 
