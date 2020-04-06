@@ -249,6 +249,8 @@
   * [Publish / Subscribe](networked-applications/design-patterns/publish-subscribe.md)
 * [Bottlenecks](networked-applications/bottlenecks/README.md)
   * [Packet Rate vs. Throughput](networked-applications/bottlenecks/packet-rate-vs.-throughput.md)
+  * [Operating System](networked-applications/bottlenecks/operating-system.md)
+  * [Programming Language](networked-applications/bottlenecks/programming-language.md)
 * [Going Faster](networked-applications/going-faster/README.md)
   * [Latency vs. Throughput](networked-applications/going-faster/latency-vs.-throughput.md)
   * [SIMD](networked-applications/going-faster/simd.md)
