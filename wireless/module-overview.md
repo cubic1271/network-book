@@ -13,7 +13,7 @@ Further, note that the radio identified in this module is intended for use only 
 {% endhint %}
 
 {% hint style="info" %}
-This section will require a little bit of soldering to successfully complete.
+This section will likely require a little bit of soldering to successfully complete.
 {% endhint %}
 
 
