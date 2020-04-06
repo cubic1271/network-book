@@ -1,2 +1,2 @@
-# Antennas
+# Antenna Types
 
