@@ -38,7 +38,7 @@
 * [Radio Fundamentals](wireless/radio-fundamentals/README.md)
   * [The Invisible Wire](wireless/radio-fundamentals/frequency.md)
   * [RF Behavior](wireless/radio-fundamentals/propagation.md)
-  * [Sensitivity](wireless/radio-fundamentals/sensitivity.md)
+  * [Power & Sensitivity](wireless/radio-fundamentals/sensitivity.md)
   * [Antenna Types](wireless/radio-fundamentals/antennas.md)
   * [Modulation](wireless/radio-fundamentals/modulation.md)
   * [Coding](wireless/radio-fundamentals/coding.md)
