@@ -237,6 +237,7 @@
   * [Promiscuity](networked-applications/network-interfaces/promiscuity.md)
   * [BPF](networked-applications/network-interfaces/bpf.md)
 * [APIs](networked-applications/apis/README.md)
+  * [Concepts](networked-applications/apis/concepts.md)
   * [libpcap](networked-applications/apis/libpcap.md)
   * [BSD Sockets](networked-applications/apis/bsd-sockets.md)
 * [Transport Selection](networked-applications/transport-selection.md)
