@@ -21,6 +21,7 @@
   * [Broadcast](networking-101/addressing/broadcast.md)
 * [The Broadcast Blink](networking-101/the-broadcast-blink.md)
 * [Beyond the Blink](networking-101/more-than-blink.md)
+* [Define: Information](networking-101/define-information.md)
 * [Additional Reading](networking-101/additional-reading.md)
 
 ## Wireless
