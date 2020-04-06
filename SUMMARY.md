@@ -143,6 +143,7 @@
   * [Nagle's Algorithm](data-transport/deep-dive-tcp/nagles-algorithm.md)
   * [Analysis](data-transport/deep-dive-tcp/analysis.md)
 * [The Internet Blink](data-transport/the-internet-blink.md)
+* [Additional Reading](data-transport/additional-reading.md)
 
 ## Security
 
@@ -172,6 +173,7 @@
   * [Response](security/intrusion/response.md)
   * [Location](security/intrusion/location.md)
 * [The Secure Blink](security/the-secure-blink.md)
+* [Additional Reading](security/additional-reading.md)
 
 ## Internet & Scale <a id="internet-legacy"></a>
 
@@ -186,6 +188,7 @@
 * [Hardware & Software](internet-legacy/hardware-and-software.md)
 * [Ethical Considerations](internet-legacy/ethical-considerations.md)
 * [The HTTP Blink](internet-legacy/the-http-blink.md)
+* [Additional Reading](internet-legacy/additional-reading.md)
 
 ## Networked Applications
 
@@ -209,6 +212,7 @@
   * [Hardware Acceleration](networked-applications/going-faster/hardware-acceleration.md)
   * [User-space Networking](networked-applications/going-faster/user-space-networking.md)
 * [The Sockets Blink](networked-applications/the-sockets-blink.md)
+* [Additional Reading](networked-applications/additional-reading.md)
 
 ## Internet of Things
 
@@ -221,6 +225,7 @@
   * [AMQP](internet-of-things/common-protocols/amqp.md)
   * [CoAP](internet-of-things/common-protocols/coap.md)
 * [The CoAP Blink](internet-of-things/the-coap-blink.md)
+* [Additional Reading](internet-of-things/additional-reading.md)
 
 ## Space Networks <a id="space"></a>
 
@@ -231,4 +236,5 @@
 * [Delay-Tolerant Networking](space/delay-tolerant-networking.md)
 * [SDN, Revisited](space/sdn-revisited.md)
 * [Blink ... IN SPACE!](space/blink-...-in-space.md)
+* [Additional Reading](space/additional-reading.md)
 
