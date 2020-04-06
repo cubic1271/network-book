@@ -1,4 +1,4 @@
-# Medium Arbitration
+# Multiple Access
 
 Aloha
 

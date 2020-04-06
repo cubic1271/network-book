@@ -47,7 +47,7 @@
 * [The Wireless Blink](wireless/the-wireless-blink/README.md)
   * [Radio Overview](wireless/the-wireless-blink/meet-bluetooth.md)
   * [Wiring](wireless/the-wireless-blink/wiring.md)
-* [Medium Arbitration](wireless/medium-arbitration.md)
+* [Multiple Access](wireless/medium-arbitration.md)
 * [The ALOHA Blink](wireless/the-aloha-blink.md)
 * [ISM Bands](wireless/ism-bands/README.md)
   * [433 MHz](wireless/ism-bands/433-mhz.md)
