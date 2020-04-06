@@ -26,7 +26,7 @@ To add content, suggest changes, fix errors, etc, please create issues and / or 
 
 ## Disclaimer
 
-The contents of this document \(and all opinions within\) represent the sole opinions of the authors, and should therefore not be interpreted to represent the official view of any private, public, or government entity.
+The contents of this document \(and all opinions within\) represent the sole opinions of the authors.  As such, the content of this document should not be interpreted to represent the official view of any private, public, or government entity.
 
 
 
