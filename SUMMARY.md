@@ -79,7 +79,6 @@
   * [Common Standards Bodies](hierarchy/network-protocols/common-standards-bodies.md)
   * [Good vs. Bad Standards](hierarchy/network-protocols/good-vs.-bad-standards.md)
 * [The Standardized Blink](hierarchy/the-standardized-blink.md)
-* [The Engineered Blink](hierarchy/the-engineered-blink.md)
 * [Encapsulation](hierarchy/encapsulation.md)
 * [The OSI Model](hierarchy/the-osi-model/README.md)
   * [Why Should I Care?](hierarchy/the-osi-model/why-should-i-care.md)
