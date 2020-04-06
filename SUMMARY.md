@@ -226,6 +226,7 @@
 ## Networked Applications
 
 * [Module Overview](networked-applications/module-overview.md)
+* [The Actor Model](networked-applications/the-actor-model.md)
 * [Scaling](networked-applications/scaling/README.md)
   * [Vertical](networked-applications/scaling/vertical.md)
   * [Horizontal](networked-applications/scaling/horizontal.md)
@@ -240,6 +241,8 @@
   * [Concepts](networked-applications/apis/concepts.md)
   * [libpcap](networked-applications/apis/libpcap.md)
   * [BSD Sockets](networked-applications/apis/bsd-sockets.md)
+  * [Abstractions](networked-applications/apis/abstractions.md)
+  * [Message Orientation](networked-applications/apis/message-orientation.md)
 * [Transport Selection](networked-applications/transport-selection.md)
 * [Design Patterns](networked-applications/design-patterns/README.md)
   * [Server / Client](networked-applications/design-patterns/server-client.md)
