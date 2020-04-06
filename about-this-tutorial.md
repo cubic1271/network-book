@@ -30,5 +30,11 @@ To add content, suggest changes, fix errors, etc, please create issues and / or 
 
 The contents of this document \(and all opinions within\) represent the sole opinions of the authors.  As such, the content of this document should not be interpreted to represent the official view of any private, public, or government entity.
 
+## What's on the Cover?
+
+{% embed url="https://www.semanticscholar.org/paper/The-Fractal-Flame-Algorithm-Spotworks-Berthoud/178e0cc10a81270e272e0a2bb2bb8bdbafb29438" %}
+
+
+
 
 
