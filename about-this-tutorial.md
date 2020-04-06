@@ -22,6 +22,8 @@ The following git repository contains this document:
 
 {% embed url="https://github.com/cubic1271/network-book" %}
 
+
+
 To add content, suggest changes, fix errors, etc, please create issues and / or pull requests as appropriate.
 
 ## Disclaimer
