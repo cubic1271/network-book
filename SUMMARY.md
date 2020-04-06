@@ -41,7 +41,6 @@
   * [Power & Sensitivity](wireless/radio-fundamentals/sensitivity.md)
   * [Common Antenna Types](wireless/radio-fundamentals/antennas.md)
   * [Encoding Bits](wireless/radio-fundamentals/modulation.md)
-  * [Coding](wireless/radio-fundamentals/coding.md)
 * [The Wireless Blink](wireless/the-wireless-blink/README.md)
   * [Radio Overview](wireless/the-wireless-blink/meet-bluetooth.md)
   * [Wiring](wireless/the-wireless-blink/wiring.md)
