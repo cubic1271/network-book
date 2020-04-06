@@ -38,9 +38,13 @@
   * [Modulation](wireless/radio-fundamentals/modulation.md)
   * [Coding](wireless/radio-fundamentals/coding.md)
 * [Medium Arbitration](wireless/medium-arbitration.md)
-* [ISM Bands](wireless/ism-bands.md)
-* [900 MHz Radio](wireless/meet-bluetooth.md)
-* [The Wireless Blink](wireless/the-wireless-blink.md)
+* [ISM Bands](wireless/ism-bands/README.md)
+  * [433 MHz](wireless/ism-bands/433-mhz.md)
+  * [900 MHz](wireless/ism-bands/900-mhz.md)
+  * [2.4 GHz](wireless/ism-bands/2.4-ghz.md)
+  * [5 GHz](wireless/ism-bands/5-ghz.md)
+* [The Wireless Blink](wireless/the-wireless-blink/README.md)
+  * [Radio Overview](wireless/the-wireless-blink/meet-bluetooth.md)
 * [Additional Reading](wireless/additional-reading.md)
 
 ## Applied Ethernet
