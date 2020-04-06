@@ -155,6 +155,10 @@
 
 * [Module Overview](security/module-overview.md)
 * [The Inevitability Principle](security/the-inevitability-principle.md)
+* [Principles](security/principles/README.md)
+  * [Confidentiality](security/principles/confidentiality.md)
+  * [Integrity](security/principles/integrity.md)
+  * [Availability](security/principles/availability.md)
 * [Security in Layers](security/security-in-layers/README.md)
   * [Meet the Onion](security/security-in-layers/meet-the-onion.md)
   * [Application Security](security/security-in-layers/application-security.md)
@@ -175,6 +179,7 @@
 * [Application Security](security/application-security/README.md)
   * [Denial of Service](security/application-security/denial-of-service.md)
   * [Buffer Overflow](security/application-security/buffer-overflow.md)
+  * [Replay](security/application-security/replay.md)
   * [OWASP](security/application-security/owasp.md)
 * [Intrusion](security/intrusion/README.md)
   * [Detection](security/intrusion/detection.md)
