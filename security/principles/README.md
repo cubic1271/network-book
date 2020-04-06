@@ -1,2 +1,2 @@
-# Principles
+# The Triad
 

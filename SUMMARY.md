@@ -156,7 +156,7 @@
 * [Module Overview](security/module-overview.md)
 * [The Inevitability Principle](security/the-inevitability-principle.md)
 * [Responsible Implementation](security/responsible-implementation.md)
-* [Principles](security/principles/README.md)
+* [The Triad](security/principles/README.md)
   * [Confidentiality](security/principles/confidentiality.md)
   * [Integrity](security/principles/integrity.md)
   * [Availability](security/principles/availability.md)
