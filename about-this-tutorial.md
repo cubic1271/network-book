@@ -24,5 +24,9 @@ The following git repository contains this document:
 
 To add content, suggest changes, fix errors, etc, please create issues and / or pull requests as appropriate.
 
+## Disclaimer
+
+The contents of this document \(and all opinions within\) are the sole opinions of the authors, and should therefore not be interpreted to represent the official view of any private, public, or government entity.
+
 
 

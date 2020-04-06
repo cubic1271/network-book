@@ -88,6 +88,11 @@
 * [The Internet Protocols](hierarchy/the-internet-protocols/README.md)
   * [IPv6](hierarchy/the-internet-protocols/ipv6.md)
   * [IPv4](hierarchy/the-internet-protocols/ipv4.md)
+* [Network Management](hierarchy/network-management/README.md)
+  * [Principles](hierarchy/network-management/principles.md)
+  * [SNMP](hierarchy/network-management/snmp.md)
+  * [Netconf](hierarchy/network-management/netconf.md)
+  * [IPFIX](hierarchy/network-management/ipfix.md)
 * [Additional Reading](hierarchy/additional-reading.md)
 
 ## Routing Data \(Network\)
