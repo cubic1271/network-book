@@ -6,7 +6,7 @@ A wireless channel is an invisible wire that is generally defined by two things:
 
 In order to transmit information, radios sing.  In general, "frequency" is "pitch": it describes how low or how high a note is when the radio sings it.  Bandwidth describes all of the different pitches that the radio will use when singing a particular song.  The volume of the song is called "power".  A radio's hearing acuity is measured by its "sensitivity".  The language of the song is its "modulation", and the number of times each word in the song is repeated is the "coding".
 
-When radios are far away from one another, they may wish to use a megaphone \("antenna"\).  The megaphone amplifies and directs a radio's voice in a way that depends largely on the construction of the megaphone.  The specific amplification of the voice is described as "gain", and the way the megaphone directs the radio's voice is described by a "pattern".  
+When radios are far away from one another, they may wish to use a megaphone \("antenna"\).  The megaphone amplifies and directs a radio's voice in a way that depends largely on the construction of the megaphone.  The specific amplification the megaphone provides is described as "gain", and the way the antenna directs the radio's voice is described as a "pattern".  
 
 As in real life: if one radio sings too loudly next to another, the listening radio can be hurt.  Over time, this may lead to hearing loss \(or, in extreme cases, deafness\).
 
