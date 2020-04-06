@@ -1,2 +1,2 @@
-# Antenna Types
+# Common Antenna Types
 
