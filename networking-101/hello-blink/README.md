@@ -1,12 +1,10 @@
 # Hello, Blink
 
-Two possible IDEs:
+Walk through PlatformIO development of a basic Blink setup.
 
-Configure Arduino IDE; install necessary Teensy extensions; get device blinking
+Upload and ensure operation.
 
-Configure PlatformIO; install necessary Teensy extensions; get device blinking
 
-Authors will use PlatformIO for code development ...
 
 
 

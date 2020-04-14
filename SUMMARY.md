@@ -9,6 +9,8 @@
 * [Module Overview](networking-101/module-overview.md)
 * [Meet the TeensyLC](networking-101/meet-the-teensylc.md)
 * [Hello, Blink](networking-101/hello-blink/README.md)
+  * [PlatformIO](networking-101/hello-blink/platformio.md)
+  * [Creating a Project](networking-101/hello-blink/creating-a-project.md)
   * [Writing Code](networking-101/hello-blink/writing-code.md)
 * [The Remote Blink](networking-101/the-remote-blink/README.md)
   * [Wiring Things Up](networking-101/the-remote-blink/wiring-things-up.md)
