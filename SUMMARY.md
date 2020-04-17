@@ -12,6 +12,7 @@
   * [PlatformIO](networking-101/hello-blink/platformio.md)
   * [Creating a Project](networking-101/hello-blink/creating-a-project.md)
   * [Writing Code](networking-101/hello-blink/writing-code.md)
+  * [Asynchronicity](networking-101/hello-blink/asynchronicity.md)
 * [The Remote Blink](networking-101/the-remote-blink/README.md)
   * [Wiring Things Up](networking-101/the-remote-blink/wiring-things-up.md)
   * [Writing Code](networking-101/the-remote-blink/writing-code.md)
