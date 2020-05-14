@@ -3,6 +3,7 @@
 * [Network Design & Implementation](README.md)
 * [About this Tutorial](about-this-tutorial.md)
 * [Acknowledgments](acknowledgments.md)
+* [Development Log](development-log.md)
 
 ## Making Stuff Talk \(Concepts\) <a id="networking-101"></a>
 

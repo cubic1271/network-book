@@ -4,6 +4,14 @@ description: Administrivia
 
 # About this Tutorial
 
+## Important Notice
+
+{% hint style="danger" %}
+The contents of this document have been prepared and presented on a best-effort basis.  As such, neither a warranty of correctness nor a suitability for any particular purpose is implied.  In other words ... 
+
+... **proceed at your own risk.**
+{% endhint %}
+
 ## License
 
 Unless otherwise specified, text and images created for this tutorial are licensed as followed:
