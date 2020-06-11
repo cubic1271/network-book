@@ -12,5 +12,9 @@ Getting back to work on this document after a hiatus due to illness.
 
 Going through and preparing notes on some of the sections to help organize thoughts / knowledge.  Once preparation has completed, writing will resume.
 
+**June 10th, 2020**
+
+Spending a bit of time fleshing out the sections on Delay-Tolerant Networking.  This could be useful for an incoming intern class.
+
 
 
